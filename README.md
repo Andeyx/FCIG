@@ -2,6 +2,7 @@
 Free crack Instagram 🤫
 
 #install termux 
+
 $ pkg update
 
 $ pkg install git
