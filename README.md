@@ -22,7 +22,7 @@ $ pip install rich
 
 $ pip install --upgrade pip
 
-$ git clone https://github.com/Fauzi-TOD/IGL
+$ git clone https://github.com/RIAN-XD/FCIG
 
 $ cd IGL
 
