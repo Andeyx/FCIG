@@ -29,6 +29,6 @@ $ cd IGL
 
 $ git pull
 
-$ ls (L kecil)
+$ ls
 
-$ python igl.py
+$ python run.py
