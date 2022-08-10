@@ -25,7 +25,7 @@ $ pip install --upgrade pip
 
 $ git clone https://github.com/RIAN-XD/FCIG
 
-$ cd IGL
+$ cd FCIG
 
 $ git pull
 
