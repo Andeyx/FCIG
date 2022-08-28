@@ -1,7 +1,5 @@
-# FCIG
-Free crack Instagram 🤫
+I don't own it 
 
-#install termux 
 
 $ pkg update
 
@@ -23,12 +21,9 @@ $ pip install rich
 
 $ pip install --upgrade pip
 
-$ git clone https://github.com/RIAN-XD/FCIG
 
+$ git clone https://github.com/Andeyx/FCIG
 $ cd FCIG
-
 $ git pull
-
 $ ls
-
 $ python run.py
